@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'anime';
+    font-style: normal;
+    font-weight: normal;
+    src: local('anime'), url("../animeft.ttf") format("ttf");
+}
+
+h1{
+    font-family: 'anime';
+    font-weight: 800;
+    color: #fff;
+}
