@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/waifus/precache-manifest.b88f0b86964d56f9847a6bc28ee91de8.js"
+  "/waifus/precache-manifest.9ac1db2d2dd4f3d5ae263f1d7e019ddf.js"
 );
 
 self.addEventListener('message', (event) => {

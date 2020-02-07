@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/waifus/static/css/main.58121568.chunk.css",
-    "main.js": "/waifus/static/js/main.75b7b1bd.chunk.js",
-    "main.js.map": "/waifus/static/js/main.75b7b1bd.chunk.js.map",
+    "main.js": "/waifus/static/js/main.f0eef1ef.chunk.js",
+    "main.js.map": "/waifus/static/js/main.f0eef1ef.chunk.js.map",
     "runtime-main.js": "/waifus/static/js/runtime-main.9cf5d253.js",
     "runtime-main.js.map": "/waifus/static/js/runtime-main.9cf5d253.js.map",
     "static/css/2.eb45ad44.chunk.css": "/waifus/static/css/2.eb45ad44.chunk.css",
     "static/js/2.01bde12f.chunk.js": "/waifus/static/js/2.01bde12f.chunk.js",
     "static/js/2.01bde12f.chunk.js.map": "/waifus/static/js/2.01bde12f.chunk.js.map",
     "index.html": "/waifus/index.html",
-    "precache-manifest.b88f0b86964d56f9847a6bc28ee91de8.js": "/waifus/precache-manifest.b88f0b86964d56f9847a6bc28ee91de8.js",
+    "precache-manifest.9ac1db2d2dd4f3d5ae263f1d7e019ddf.js": "/waifus/precache-manifest.9ac1db2d2dd4f3d5ae263f1d7e019ddf.js",
     "service-worker.js": "/waifus/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/waifus/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.58121568.chunk.css.map": "/waifus/static/css/main.58121568.chunk.css.map",
@@ -38,6 +38,6 @@
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.01bde12f.chunk.js",
     "static/css/main.58121568.chunk.css",
-    "static/js/main.75b7b1bd.chunk.js"
+    "static/js/main.f0eef1ef.chunk.js"
   ]
 }
