@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/waifus/static/css/main.58121568.chunk.css",
+    "main.js": "/waifus/static/js/main.75b7b1bd.chunk.js",
+    "main.js.map": "/waifus/static/js/main.75b7b1bd.chunk.js.map",
+    "runtime-main.js": "/waifus/static/js/runtime-main.9cf5d253.js",
+    "runtime-main.js.map": "/waifus/static/js/runtime-main.9cf5d253.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/waifus/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.01bde12f.chunk.js": "/waifus/static/js/2.01bde12f.chunk.js",
+    "static/js/2.01bde12f.chunk.js.map": "/waifus/static/js/2.01bde12f.chunk.js.map",
+    "index.html": "/waifus/index.html",
+    "precache-manifest.b88f0b86964d56f9847a6bc28ee91de8.js": "/waifus/precache-manifest.b88f0b86964d56f9847a6bc28ee91de8.js",
+    "service-worker.js": "/waifus/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/waifus/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.58121568.chunk.css.map": "/waifus/static/css/main.58121568.chunk.css.map",
+    "static/js/2.01bde12f.chunk.js.LICENSE.txt": "/waifus/static/js/2.01bde12f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/waifus/static/media/animeft.eeb6aa54.ttf",
+    "static/media/anko.jpg": "/waifus/static/media/anko.2c79c5e9.jpg",
+    "static/media/harribel.jpg": "/waifus/static/media/harribel.a6fb5a86.jpg",
+    "static/media/ikumi.jpg": "/waifus/static/media/ikumi.70eaf733.jpg",
+    "static/media/ino.jpg": "/waifus/static/media/ino.235bb5d6.jpg",
+    "static/media/katen.png": "/waifus/static/media/katen.5a3d8b8a.png",
+    "static/media/konan.jpg": "/waifus/static/media/konan.f3092dc4.jpg",
+    "static/media/kukaku.png": "/waifus/static/media/kukaku.1a4c4383.png",
+    "static/media/kurenai.png": "/waifus/static/media/kurenai.9a1b0119.png",
+    "static/media/mei terumi.jpg": "/waifus/static/media/mei terumi.73dbc709.jpg",
+    "static/media/nelliel.png": "/waifus/static/media/nelliel.103045a1.png",
+    "static/media/orihime.jpg": "/waifus/static/media/orihime.f241d55a.jpg",
+    "static/media/rangiku.png": "/waifus/static/media/rangiku.9efb7557.png",
+    "static/media/sakura.jpg": "/waifus/static/media/sakura.3a53b357.jpg",
+    "static/media/samui.jpg": "/waifus/static/media/samui.ff80ef66.jpg",
+    "static/media/temari.jpg": "/waifus/static/media/temari.2412a525.jpg",
+    "static/media/tsunade.png": "/waifus/static/media/tsunade.1ea1601b.png",
+    "static/media/yourichi.jpg": "/waifus/static/media/yourichi.4c7bea5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf5d253.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.01bde12f.chunk.js",
+    "static/css/main.58121568.chunk.css",
+    "static/js/main.75b7b1bd.chunk.js"
+  ]
+}
